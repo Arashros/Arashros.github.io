@@ -22,7 +22,7 @@ repository: "arashros/arashros.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar: null
+  avatar: "profile.jpg"
   name: "Arash Rostami"
   bio: "Biomedical Engineering graduate | MRI analysis and biomedical signal processing"
   location: "Iran"
