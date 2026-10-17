@@ -16,3 +16,7 @@ Practical internship involving medical-device troubleshooting and support for cl
 - **Python libraries:** NumPy, Pandas, SciPy, scikit-learn
 - **Tools:** Git, Jupyter Notebook
 
+## Languages
+
+- Persian (native)
+- English (professional proficiency)
