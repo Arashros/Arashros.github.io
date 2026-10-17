@@ -2,6 +2,7 @@
 title: "Brain Age Prediction from Structural MRI Features"
 collection: portfolio
 featured: true
+display_order: 2
 permalink: /portfolio/brain-age-prediction/
 date: 2026-10-16
 excerpt: "A reproducible regression workflow using structural MRI morphometric features and participant-grouped evaluation."

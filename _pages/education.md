@@ -9,6 +9,7 @@ author_profile: true
 **Shahid Beheshti University (SBU)**, Tehran, Iran  
 Graduated: February 2024  
 GPA: 16.20/20  
+Top 1.2% of more than 120,000 candidates, national university entrance exam
 
 ### Undergraduate thesis
 

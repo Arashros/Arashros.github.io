@@ -2,6 +2,7 @@
 title: "Aging Trend in Anatomical Data of the Right Hemisphere"
 collection: portfolio
 featured: true
+display_order: 1
 permalink: /portfolio/undergraduate-thesis-mri-aging/
 date: 2024-02-19
 excerpt: "Undergraduate thesis analyzing structural MRI morphometric measurements from more than 600 subjects using the Harvard–Oxford cortical atlas."

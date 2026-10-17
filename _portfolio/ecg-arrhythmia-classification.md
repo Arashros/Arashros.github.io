@@ -2,6 +2,7 @@
 title: "ECG Beat Classification"
 collection: portfolio
 featured: true
+display_order: 3
 permalink: /portfolio/ecg-arrhythmia-classification/
 date: 2026-10-17
 excerpt: "Status: In progress. An ECG processing and beat-classification pipeline using MIT-BIH annotations and participant-aware evaluation."
